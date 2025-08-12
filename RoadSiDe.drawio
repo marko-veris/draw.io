@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="26.1.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="666" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1555" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -72,7 +72,7 @@
             <Array as="points">
               <mxPoint x="675" y="550" />
               <mxPoint x="810" y="550" />
-              <mxPoint x="810" y="710" />
+              <mxPoint x="810" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,7 +81,7 @@
             <Array as="points">
               <mxPoint x="675" y="550" />
               <mxPoint x="810" y="550" />
-              <mxPoint x="810" y="800" />
+              <mxPoint x="810" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -121,13 +121,13 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-37" target="x0F7mZJArPIpgWNMmodn-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="425" y="1070" />
-              <mxPoint x="560" y="1070" />
+              <mxPoint x="410" y="1070" />
+              <mxPoint x="545" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-37" value="&lt;b&gt;Create profile rutting clouds and meshes&lt;br&gt;&lt;/b&gt;road_profile_rutting_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="990" width="230" height="60" as="geometry" />
+          <mxGeometry x="295" y="990" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-39" target="x0F7mZJArPIpgWNMmodn-42">
           <mxGeometry relative="1" as="geometry" />
@@ -135,31 +135,31 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-39" target="x0F7mZJArPIpgWNMmodn-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="695" y="1070" />
-              <mxPoint x="560" y="1070" />
+              <mxPoint x="680" y="1070" />
+              <mxPoint x="545" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-39" value="&lt;b&gt;Create longitudinal rutting clouds and meshes&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;road_longitudinal_rutting_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="990" width="230" height="60" as="geometry" />
+          <mxGeometry x="565" y="990" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-41" value="&lt;b&gt;Create profile rutting polygons&lt;br&gt;&lt;br&gt;&lt;/b&gt;road_rutting_defects_profile_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="1090" width="230" height="60" as="geometry" />
+          <mxGeometry x="295" y="1090" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-42" value="&lt;b&gt;Create longitudinal rutting polygons&lt;br&gt;&lt;br&gt;&lt;/b&gt;road_rutting_defects_longitudinal_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="1090" width="230" height="60" as="geometry" />
+          <mxGeometry x="565" y="1090" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-48" target="x0F7mZJArPIpgWNMmodn-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-48" value="&lt;b&gt;Create pothole meshes&lt;br&gt;&lt;br&gt;&lt;/b&gt;road_pothole_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="1190" width="230" height="60" as="geometry" />
+          <mxGeometry x="430" y="1190" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-52" target="x0F7mZJArPIpgWNMmodn-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-52" value="&lt;b&gt;Create pothole polygons&lt;br&gt;&lt;br&gt;&lt;/b&gt;road_pothole_defects_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="1290" width="230" height="60" as="geometry" />
+          <mxGeometry x="430" y="1290" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-54" value="&lt;b&gt;Upload spherical images to AWS&lt;br&gt;&lt;/b&gt;&lt;br&gt;aws_s3_upload_spherical_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="590" width="230" height="60" as="geometry" />
@@ -168,7 +168,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="1490" />
-              <mxPoint x="560" y="1490" />
+              <mxPoint x="545" y="1490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -203,16 +203,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-73" value="&lt;b&gt;Rutting and pothole complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="1390" width="150" height="60" as="geometry" />
+          <mxGeometry x="470" y="1390" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-75" value="&lt;b&gt;Link trajectory points to authority &lt;br&gt;roads&lt;/b&gt;&lt;br&gt;trajectory_point_authority_road.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="680" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="690" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-77" target="x0F7mZJArPIpgWNMmodn-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-77" value="&lt;b&gt;Create IRI Roughness inputs&lt;br&gt;&lt;br&gt;&lt;/b&gt;IRI_Roughness_input_creator_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="770" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="790" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-78" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="330" width="40" height="30" as="geometry" />
@@ -230,33 +230,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-85" value="&lt;b&gt;Compute IRI roughness&lt;br&gt;&lt;/b&gt;&lt;br&gt;ProVAL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="860" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="890" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-87" target="x0F7mZJArPIpgWNMmodn-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-87" value="&lt;b&gt;Read IRI roughness outputs and create geometries&lt;br&gt;&lt;/b&gt;IRI_Roughness_output_reader_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="950" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="990" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-89" target="x0F7mZJArPIpgWNMmodn-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="965" y="1490" />
-              <mxPoint x="560" y="1490" />
+              <mxPoint x="545" y="1490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-89" value="&lt;b&gt;Roughness complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="1040" width="130" height="60" as="geometry" />
+          <mxGeometry x="900" y="1090" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-91" target="x0F7mZJArPIpgWNMmodn-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-91" value="&lt;b&gt;Stage complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="1530" width="150" height="60" as="geometry" />
+          <mxGeometry x="470" y="1530" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-96" value="&lt;b&gt;Compute PCI metrics&lt;br&gt;&lt;/b&gt;&lt;br&gt;pci_metrics.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="1630" width="200" height="60" as="geometry" />
+          <mxGeometry x="445" y="1630" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-101" target="x0F7mZJArPIpgWNMmodn-8">
           <mxGeometry relative="1" as="geometry" />
