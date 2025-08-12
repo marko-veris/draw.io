@@ -136,7 +136,7 @@
           <mxGeometry x="445" y="1290" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-54" value="&lt;b&gt;Upload images to AWS&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_profile_points_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="855" y="590" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="590" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -182,13 +182,13 @@
           <mxGeometry x="485" y="1390" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-75" value="&lt;b&gt;Connect trajectory points with authority roads&lt;/b&gt;&lt;br&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="855" y="680" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="680" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-77" target="x0F7mZJArPIpgWNMmodn-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-77" value="&lt;b&gt;Create IRI Roughness inputs&lt;br&gt;&lt;br&gt;&lt;/b&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="855" y="770" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="770" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-78" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="210" width="50" height="30" as="geometry" />
@@ -206,13 +206,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-85" value="&lt;b&gt;Compute IRI roughness&lt;br&gt;&lt;/b&gt;&lt;br&gt;(ProVAL)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="855" y="860" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="860" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-87" target="x0F7mZJArPIpgWNMmodn-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-87" value="&lt;b&gt;Read IRI roughness outputs and create geometry&lt;br&gt;&lt;/b&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="855" y="950" width="230" height="60" as="geometry" />
+          <mxGeometry x="850" y="950" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-89" target="x0F7mZJArPIpgWNMmodn-91">
           <mxGeometry relative="1" as="geometry">
@@ -223,7 +223,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-89" value="&lt;b&gt;Roughness complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="905" y="1040" width="130" height="60" as="geometry" />
+          <mxGeometry x="900" y="1040" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-91" target="x0F7mZJArPIpgWNMmodn-96">
           <mxGeometry relative="1" as="geometry" />
