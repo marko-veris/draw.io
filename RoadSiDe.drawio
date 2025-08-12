@@ -175,7 +175,7 @@
           <mxGeometry x="850" y="540" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-58" value="&lt;b&gt;Cracks complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="820" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="140" width="50" height="30" as="geometry" />
@@ -225,11 +225,17 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-81" value="&lt;b&gt;Road width QA&lt;/b&gt;&lt;br&gt;&lt;br&gt;(QGIS)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="720" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-85" target="x0F7mZJArPIpgWNMmodn-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-85" value="&lt;b&gt;Compute IRI roughness&lt;br&gt;&lt;/b&gt;&lt;br&gt;(ProVAL)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="810" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-87" value="&lt;b&gt;Read IRI roughness outputs and create geometry&lt;br&gt;&lt;/b&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="900" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-89" value="&lt;b&gt;Roughness complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="990" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
