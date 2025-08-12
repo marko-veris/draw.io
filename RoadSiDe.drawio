@@ -235,7 +235,7 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-87" target="x0F7mZJArPIpgWNMmodn-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-87" value="&lt;b&gt;Read IRI roughness outputs and create geometries&lt;br&gt;&lt;/b&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x0F7mZJArPIpgWNMmodn-87" value="&lt;b&gt;Read IRI roughness outputs and create geometries&lt;br&gt;&lt;/b&gt;IRI_Roughness_output_reader_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="950" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-89" target="x0F7mZJArPIpgWNMmodn-91">
@@ -255,7 +255,7 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-91" value="&lt;b&gt;Stage complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485" y="1490" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-96" value="&lt;b&gt;Compute PCI metrics&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_projection_mesh_app.py)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x0F7mZJArPIpgWNMmodn-96" value="&lt;b&gt;Compute PCI metrics&lt;br&gt;&lt;/b&gt;&lt;br&gt;pci_metrics.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="1580" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-101" target="x0F7mZJArPIpgWNMmodn-8">
