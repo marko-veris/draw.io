@@ -4,17 +4,29 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="x0F7mZJArPIpgWNMmodn-0" value="Data registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="x0F7mZJArPIpgWNMmodn-0" value="&lt;b&gt;Register data&lt;br&gt;&lt;/b&gt;&lt;br&gt;(data_registration_quick_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="200" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-1" value="Data preparation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-2" value="Background clouds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="x0F7mZJArPIpgWNMmodn-2" value="&lt;b&gt;Background clouds&lt;br&gt;&lt;/b&gt;&lt;br&gt;(background_clouds_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="420" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-3" value="Projection mesh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="x0F7mZJArPIpgWNMmodn-3" value="&lt;b&gt;Road width and white line points&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_profile_points_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="620" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-4" value="&lt;b&gt;Projection mesh&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_projection_mesh_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-5" value="&lt;b&gt;Road width and white line lines&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="720" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-7" value="&lt;b&gt;Identify distinct data&lt;br&gt;&lt;/b&gt;&lt;br&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-8" value="&lt;b&gt;Register authority road&lt;br&gt;&lt;/b&gt;&lt;br&gt;(authority_data_registration.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="200" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
