@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="26.1.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1166" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="804" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,46 +8,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-0" value="&lt;b&gt;Register data&lt;br&gt;&lt;/b&gt;&lt;br&gt;(data_registration_quick_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="160" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-1" target="x0F7mZJArPIpgWNMmodn-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-1" target="x0F7mZJArPIpgWNMmodn-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-1" value="&lt;b&gt;Project setup&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="150" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-2" value="&lt;b&gt;Create background clouds&lt;br&gt;&lt;/b&gt;&lt;br&gt;(background_clouds_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="440" width="210" height="60" as="geometry" />
+          <mxGeometry x="250" y="450" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-3" target="x0F7mZJArPIpgWNMmodn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-3" value="&lt;b&gt;Detect road width and white line points&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_profile_points_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="540" width="230" height="60" as="geometry" />
+          <mxGeometry x="500" y="590" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-4" target="x0F7mZJArPIpgWNMmodn-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-4" value="&lt;b&gt;Create projection meshes&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_projection_mesh_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="540" width="200" height="60" as="geometry" />
+          <mxGeometry x="20" y="590" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-5" target="x0F7mZJArPIpgWNMmodn-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-5" value="&lt;b&gt;Create road width and white line lines&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="630" width="230" height="60" as="geometry" />
+          <mxGeometry x="500" y="690" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-7" target="x0F7mZJArPIpgWNMmodn-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-7" value="&lt;b&gt;Identify distinct data&lt;br&gt;&lt;/b&gt;&lt;br&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="250" width="210" height="60" as="geometry" />
+          <mxGeometry x="250" y="250" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-8" value="&lt;b&gt;Register authority road&lt;br&gt;&lt;/b&gt;&lt;br&gt;(authority_data_registration.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="160" width="210" height="60" as="geometry" />
+          <mxGeometry x="500" y="150" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-10" target="x0F7mZJArPIpgWNMmodn-2">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-10" value="&lt;b&gt;Identify global distinct data&lt;br&gt;&lt;/b&gt;&lt;br&gt;(identify_distinct_global_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="340" width="210" height="60" as="geometry" />
+          <mxGeometry x="250" y="350" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-17" target="x0F7mZJArPIpgWNMmodn-4">
           <mxGeometry relative="1" as="geometry" />
@@ -67,53 +58,26 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-17" target="x0F7mZJArPIpgWNMmodn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-17" target="x0F7mZJArPIpgWNMmodn-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="520" />
-              <mxPoint x="760" y="520" />
-              <mxPoint x="760" y="570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-17" target="x0F7mZJArPIpgWNMmodn-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="520" />
-              <mxPoint x="760" y="520" />
-              <mxPoint x="760" y="660" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-17" target="x0F7mZJArPIpgWNMmodn-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="520" />
-              <mxPoint x="760" y="520" />
-              <mxPoint x="760" y="750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-17" value="&lt;b&gt;Create stage tasks&lt;br&gt;&lt;/b&gt;&lt;br&gt;(task_manager_admin.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="440" width="210" height="60" as="geometry" />
+          <mxGeometry x="500" y="450" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-22" target="x0F7mZJArPIpgWNMmodn-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-22" value="&lt;b&gt;Detect cracks&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_projection_mesh_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="540" width="200" height="60" as="geometry" />
+          <mxGeometry x="260" y="590" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-23" target="x0F7mZJArPIpgWNMmodn-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-23" value="&lt;b&gt;Analyse cracks&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_projection_mesh_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="640" width="200" height="60" as="geometry" />
+          <mxGeometry x="20" y="690" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-24" target="x0F7mZJArPIpgWNMmodn-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-24" value="&lt;b&gt;Create crack polylines&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_projection_mesh_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="730" width="200" height="60" as="geometry" />
+          <mxGeometry x="20" y="790" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-34" target="x0F7mZJArPIpgWNMmodn-37">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-34" value="&lt;b&gt;Create road width and white line lines - post QA&lt;/b&gt;&lt;br&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="810" width="230" height="60" as="geometry" />
+          <mxGeometry x="500" y="890" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-37" target="x0F7mZJArPIpgWNMmodn-41">
           <mxGeometry relative="1" as="geometry" />
@@ -130,13 +94,13 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-37" target="x0F7mZJArPIpgWNMmodn-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="425" y="980" />
-              <mxPoint x="555" y="980" />
+              <mxPoint x="430" y="1060" />
+              <mxPoint x="560" y="1060" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-37" value="&lt;b&gt;Create profile rutting clouds and meshes&lt;br&gt;&lt;/b&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="910" width="230" height="60" as="geometry" />
+          <mxGeometry x="310" y="990" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-39" target="x0F7mZJArPIpgWNMmodn-42">
           <mxGeometry relative="1" as="geometry" />
@@ -144,126 +108,140 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-39" target="x0F7mZJArPIpgWNMmodn-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="685" y="980" />
-              <mxPoint x="555" y="980" />
-              <mxPoint x="555" y="1090" />
+              <mxPoint x="690" y="1060" />
+              <mxPoint x="560" y="1060" />
+              <mxPoint x="560" y="1170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-39" value="&lt;b&gt;Create longitudinal rutting clouds and meshes&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="910" width="230" height="60" as="geometry" />
+          <mxGeometry x="580" y="990" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-41" value="&lt;b&gt;Create profile rutting polygons&lt;br&gt;&lt;br&gt;&lt;/b&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="1000" width="230" height="60" as="geometry" />
+          <mxGeometry x="310" y="1090" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-42" value="&lt;b&gt;Create longitudinal rutting polygons&lt;br&gt;&lt;br&gt;&lt;/b&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="1000" width="230" height="60" as="geometry" />
+          <mxGeometry x="580" y="1090" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-48" target="x0F7mZJArPIpgWNMmodn-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-48" value="&lt;b&gt;Create pothole meshes&lt;br&gt;&lt;br&gt;&lt;/b&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="1090" width="230" height="60" as="geometry" />
+          <mxGeometry x="445" y="1190" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-52" target="x0F7mZJArPIpgWNMmodn-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-52" value="&lt;b&gt;Create pothole polygons&lt;br&gt;&lt;br&gt;&lt;/b&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="1180" width="230" height="60" as="geometry" />
+          <mxGeometry x="445" y="1290" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-54" value="&lt;b&gt;Upload images to AWS&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_profile_points_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="540" width="230" height="60" as="geometry" />
+          <mxGeometry x="855" y="590" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-58" target="x0F7mZJArPIpgWNMmodn-91">
+        <mxCell id="x0F7mZJArPIpgWNMmodn-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="960" as="sourcePoint" />
+            <mxPoint x="560" y="1490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="1370" />
-              <mxPoint x="555" y="1370" />
+              <mxPoint x="120" y="1470" />
+              <mxPoint x="560" y="1470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-58" value="&lt;b&gt;Cracks complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="820" width="140" height="60" as="geometry" />
+          <mxGeometry x="50" y="890" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="140" width="50" height="30" as="geometry" />
+          <mxGeometry x="950" y="130" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-63" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Per stage&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="100" width="130" height="30" as="geometry" />
+          <mxGeometry x="990" y="90" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="60" width="30" height="30" as="geometry" />
+          <mxGeometry x="950" y="50" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="100" width="30" height="30" as="geometry" />
+          <mxGeometry x="950" y="90" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Per project&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="60" width="130" height="30" as="geometry" />
+          <mxGeometry x="990" y="50" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-68" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="180" width="50" height="30" as="geometry" />
+          <mxGeometry x="950" y="170" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-69" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Automated steps&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="140" width="130" height="30" as="geometry" />
+          <mxGeometry x="1010" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-71" value="Automated flags/gates" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="180" width="130" height="30" as="geometry" />
+          <mxGeometry x="1010" y="170" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-73" target="x0F7mZJArPIpgWNMmodn-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-73" value="&lt;b&gt;Rutting and pothole complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="1270" width="150" height="60" as="geometry" />
+          <mxGeometry x="485" y="1390" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-75" value="&lt;b&gt;Connect trajectory points with authority roads&lt;/b&gt;&lt;br&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="630" width="230" height="60" as="geometry" />
+          <mxGeometry x="855" y="680" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-77" target="x0F7mZJArPIpgWNMmodn-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-77" value="&lt;b&gt;Create IRI Roughness inputs&lt;br&gt;&lt;br&gt;&lt;/b&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="720" width="230" height="60" as="geometry" />
+          <mxGeometry x="855" y="770" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-78" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="220" width="50" height="30" as="geometry" />
+          <mxGeometry x="950" y="210" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-79" value="Manual steps" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="220" width="130" height="30" as="geometry" />
+          <mxGeometry x="1010" y="210" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-81" target="x0F7mZJArPIpgWNMmodn-34">
+        <mxCell id="x0F7mZJArPIpgWNMmodn-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-81" target="x0F7mZJArPIpgWNMmodn-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-81" value="&lt;b&gt;Road width QA&lt;/b&gt;&lt;br&gt;&lt;br&gt;(QGIS)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="720" width="230" height="60" as="geometry" />
+          <mxGeometry x="500" y="790" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-85" target="x0F7mZJArPIpgWNMmodn-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-85" value="&lt;b&gt;Compute IRI roughness&lt;br&gt;&lt;/b&gt;&lt;br&gt;(ProVAL)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="810" width="230" height="60" as="geometry" />
+          <mxGeometry x="855" y="860" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-87" target="x0F7mZJArPIpgWNMmodn-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-87" value="&lt;b&gt;Read IRI roughness outputs and create geometry&lt;br&gt;&lt;/b&gt;(identify_distinct_data_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="900" width="230" height="60" as="geometry" />
+          <mxGeometry x="855" y="950" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-89" target="x0F7mZJArPIpgWNMmodn-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="965" y="1370" />
-              <mxPoint x="555" y="1370" />
+              <mxPoint x="970" y="1470" />
+              <mxPoint x="560" y="1470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-89" value="&lt;b&gt;Roughness complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="990" width="130" height="60" as="geometry" />
+          <mxGeometry x="905" y="1040" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-91" target="x0F7mZJArPIpgWNMmodn-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-91" value="&lt;b&gt;Stage complete&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="1400" width="150" height="60" as="geometry" />
+          <mxGeometry x="485" y="1490" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-96" value="&lt;b&gt;Create crack polylines&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_projection_mesh_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="1490" width="200" height="60" as="geometry" />
+        <mxCell id="x0F7mZJArPIpgWNMmodn-96" value="&lt;b&gt;Compute PCI metrics&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_projection_mesh_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1580" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-101" target="x0F7mZJArPIpgWNMmodn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-101" target="x0F7mZJArPIpgWNMmodn-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-101" value="&lt;b&gt;Project setup&lt;/b&gt;&lt;br&gt;&lt;br&gt;(RoadSiDe.ipynb)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="50" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
