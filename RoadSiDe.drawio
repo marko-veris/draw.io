@@ -67,6 +67,9 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-17" target="x0F7mZJArPIpgWNMmodn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-17" target="x0F7mZJArPIpgWNMmodn-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-17" value="&lt;b&gt;Create stage tasks&lt;br&gt;&lt;/b&gt;&lt;br&gt;(task_manager_admin.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="440" width="210" height="60" as="geometry" />
         </mxCell>
@@ -143,6 +146,9 @@
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-52" value="&lt;b&gt;Create pothole polygons&lt;br&gt;&lt;br&gt;&lt;/b&gt;(road_profile_lines_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="1180" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0F7mZJArPIpgWNMmodn-54" value="&lt;b&gt;Upload images to AWS&lt;br&gt;&lt;/b&gt;&lt;br&gt;(road_profile_points_app.py)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="540" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
