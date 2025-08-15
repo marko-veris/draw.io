@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1287" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -40,10 +40,10 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-8" value="&lt;b&gt;Register authority road&lt;br&gt;&lt;/b&gt;&lt;br&gt;authority_data_registration.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="150" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-10" target="x0F7mZJArPIpgWNMmodn-2" edge="1">
+        <mxCell id="x0F7mZJArPIpgWNMmodn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.451;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-10" target="x0F7mZJArPIpgWNMmodn-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.595;exitY=1.003;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-10" target="x0F7mZJArPIpgWNMmodn-17" edge="1">
+        <mxCell id="x0F7mZJArPIpgWNMmodn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.549;exitY=1.012;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-10" target="x0F7mZJArPIpgWNMmodn-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x0F7mZJArPIpgWNMmodn-10" value="&lt;b&gt;Identify global distinct data&lt;br&gt;&lt;/b&gt;&lt;br&gt;identify_distinct_global_data_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -174,11 +174,11 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-54" value="&lt;b&gt;Upload spherical images to AWS&lt;br&gt;&lt;/b&gt;&lt;br&gt;aws_s3_upload_spherical_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="850" y="590" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-58" target="x0F7mZJArPIpgWNMmodn-91" edge="1">
+        <mxCell id="FWMF13hdxfeH7ewXmCLD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.348;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-58" target="x0F7mZJArPIpgWNMmodn-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="1490" />
-              <mxPoint x="545" y="1490" />
+              <mxPoint x="522" y="1490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -248,11 +248,11 @@
         <mxCell id="x0F7mZJArPIpgWNMmodn-87" value="&lt;b&gt;Read IRI roughness outputs and create geometries&lt;br&gt;&lt;/b&gt;IRI_Roughness_output_reader_app.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="850" y="990" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x0F7mZJArPIpgWNMmodn-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-89" target="x0F7mZJArPIpgWNMmodn-91" edge="1">
+        <mxCell id="FWMF13hdxfeH7ewXmCLD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.652;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x0F7mZJArPIpgWNMmodn-89" target="x0F7mZJArPIpgWNMmodn-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="965" y="1490" />
-              <mxPoint x="545" y="1490" />
+              <mxPoint x="568" y="1490" />
             </Array>
           </mxGeometry>
         </mxCell>
